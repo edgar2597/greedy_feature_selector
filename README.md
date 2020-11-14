@@ -1,6 +1,6 @@
 ## Data descritption 
 
-I am using Wisconsin Breast Cancer dataset . 
+I am using Wisconsin Breast Cancer dataset (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). 
 I am using ‘diagnosis’ as my target variable Y to be predicted. Also I replace Malignant by 1, and Benign by 0, thus predicting cancer malignancy
 
 
